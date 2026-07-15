@@ -6,6 +6,7 @@ namespace BVP\Tenjisagi;
 
 use Carbon\CarbonImmutable as Carbon;
 use GuzzleHttp\ClientInterface;
+use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\GuzzleException;
 use RuntimeException;
 
@@ -45,6 +46,7 @@ final class ProgramsFetcher
      *         }>,
      *     }>,
      * }
+     * @throws \BVP\Tenjisagi\ProgramsNotFoundException
      * @throws \RuntimeException
      */
     public function fetch(Carbon $date): array
@@ -53,6 +55,18 @@ final class ProgramsFetcher
 
         try {
             $response = $this->client->request('GET', $url);
+        } catch (ClientException $exception) {
+            if ($exception->getResponse()->getStatusCode() === 404) {
+                throw new ProgramsNotFoundException(
+                    "No race program published yet at: {$url}",
+                    previous: $exception,
+                );
+            }
+
+            throw new RuntimeException(
+                "Failed to fetch race program from: {$url}: {$exception->getMessage()}",
+                previous: $exception,
+            );
         } catch (GuzzleException $exception) {
             throw new RuntimeException(
                 "Failed to fetch race program from: {$url}: {$exception->getMessage()}",

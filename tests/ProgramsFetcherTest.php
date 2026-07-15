@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace BVP\Tenjisagi\Tests;
 
 use BVP\Tenjisagi\ProgramsFetcher;
+use BVP\Tenjisagi\ProgramsNotFoundException;
 use Carbon\CarbonImmutable as Carbon;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ConnectException;
@@ -65,5 +66,43 @@ final class ProgramsFetcherTest extends TestCase
         $this->expectExceptionMessage('Failed to fetch race program from:');
 
         $fetcher->fetch(Carbon::parse('2026-05-01'));
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testFetchThrowsProgramsNotFoundExceptionOnA404Response(): void
+    {
+        $mock = new MockHandler([
+            new Response(404, [], 'not found'),
+        ]);
+
+        $fetcher = new ProgramsFetcher(new Client(['handler' => HandlerStack::create($mock)]));
+
+        $this->expectException(ProgramsNotFoundException::class);
+
+        $fetcher->fetch(Carbon::parse('2026-07-16'));
+    }
+
+    /**
+     * @return void
+     */
+    #[Test]
+    public function testFetchThrowsPlainRuntimeExceptionOnANonNotFoundClientError(): void
+    {
+        $mock = new MockHandler([
+            new Response(403, [], 'forbidden'),
+        ]);
+
+        $fetcher = new ProgramsFetcher(new Client(['handler' => HandlerStack::create($mock)]));
+
+        try {
+            $fetcher->fetch(Carbon::parse('2026-05-01'));
+            self::fail('Expected a RuntimeException to be thrown.');
+        } catch (RuntimeException $exception) {
+            self::assertNotInstanceOf(ProgramsNotFoundException::class, $exception);
+            self::assertStringContainsString('Failed to fetch race program from:', $exception->getMessage());
+        }
     }
 }

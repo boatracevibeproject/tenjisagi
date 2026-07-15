@@ -1,0 +1,46 @@
+{
+    "name": "bvp/tenjisagi",
+    "description": "A package for analyzing how often a boat racer's actual race course differs from their start exhibition course, using Boatrace Open API data.",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "boatrace",
+        "library"
+    ],
+    "authors": [
+        {
+            "name": "shimomo",
+            "email": "bvp@shimomo.net"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/boatracevibeproject/tenjisagi/issues",
+        "source": "https://github.com/boatracevibeproject/tenjisagi"
+    },
+    "require": {
+        "php": "^8.3",
+        "guzzlehttp/guzzle": "^7.12.1",
+        "nesbot/carbon": "^3.8.4"
+    },
+    "require-dev": {
+        "ergebnis/composer-normalize": "^2.52",
+        "phpunit/phpunit": "^12.5.8 || ^13.0",
+        "vimeo/psalm": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BVP\\Tenjisagi\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BVP\\Tenjisagi\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "ergebnis/composer-normalize": true
+        }
+    },
+    "$schema": "https://getcomposer.org/schema.json"
+}

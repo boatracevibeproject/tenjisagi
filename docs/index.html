@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>進入変化率ランキング | Tenjisagi</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="lane-stripe" aria-hidden="true">
+            <span class="lane lane-1"></span>
+            <span class="lane lane-2"></span>
+            <span class="lane lane-3"></span>
+            <span class="lane lane-4"></span>
+            <span class="lane lane-5"></span>
+            <span class="lane lane-6"></span>
+        </div>
+
+        <div class="header-inner">
+            <p class="eyebrow">TENJISAGI COURSE DATA</p>
+            <h1>進入変化率ランキング</h1>
+            <p id="generated-at" class="meta"></p>
+            <p class="meta note">進入変化率とは、スタート展示の進入コースと本番の進入コースが異なった割合です</p>
+            <p class="meta note">直近1年・30走以上のデータを集計対象としています</p>
+        </div>
+
+        <svg class="wave" viewBox="0 0 1200 40" preserveAspectRatio="none" aria-hidden="true">
+            <path d="M0,20 C150,40 350,0 600,18 C850,36 1050,4 1200,20 L1200,40 L0,40 Z"></path>
+        </svg>
+    </header>
+
+    <main>
+        <div class="controls">
+            <input type="search" id="filter" placeholder="登録番号または選手名で絞り込み" autocomplete="off">
+            <span id="count" class="meta"></span>
+        </div>
+
+        <p id="error" class="error" hidden></p>
+
+        <div class="table-wrapper">
+            <table id="racers-table">
+                <colgroup>
+                    <col class="col-rank">
+                    <col class="col-number">
+                    <col class="col-name">
+                    <col class="col-race-count">
+                    <col class="col-changed-race-count">
+                    <col class="col-changed-race-rate">
+                </colgroup>
+
+                <thead>
+                    <tr>
+                        <th data-key="rank" aria-sort="ascending">順位</th>
+                        <th data-key="number">登録番号</th>
+                        <th data-key="name">選手名</th>
+                        <th data-key="race_count">レース数</th>
+                        <th data-key="changed_race_count">進入変化数</th>
+                        <th data-key="changed_race_rate">進入変化率</th>
+                    </tr>
+                </thead>
+
+                <tbody id="racers-body"></tbody>
+            </table>
+        </div>
+    </main>
+
+    <script src="./assets/app.js"></script>
+</body>
+</html>

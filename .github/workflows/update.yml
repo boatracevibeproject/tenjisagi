@@ -35,12 +35,17 @@ jobs:
       - name: Install dependencies
         run: composer update --prefer-dist --no-interaction --no-progress
 
-      - name: Determine target date (JST)
+      - name: Determine target dates (JST)
         id: date
-        run: echo "date=$(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+        run: |
+          echo "today=$(TZ=Asia/Tokyo date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+          echo "yesterday=$(TZ=Asia/Tokyo date -d 'yesterday' +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Analyze yesterday's course changes
+        run: php bin/analyze-course-changes.php "${{ steps.date.outputs.yesterday }}"
 
       - name: Analyze today's course changes
-        run: php bin/analyze-course-changes.php "${{ steps.date.outputs.date }}"
+        run: php bin/analyze-course-changes.php "${{ steps.date.outputs.today }}"
 
       - name: Aggregate course changes summary
         run: php bin/aggregate-course-changes.php
@@ -55,6 +60,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to commit."
           else
-            git commit -m "chore: update course changes data for ${{ steps.date.outputs.date }}"
+            git commit -m "chore: update course changes data for ${{ steps.date.outputs.yesterday }} and ${{ steps.date.outputs.today }}"
             git push origin HEAD:"${TARGET_BRANCH}" || (git pull --rebase origin "${TARGET_BRANCH}" && git push origin HEAD:"${TARGET_BRANCH}")
           fi

@@ -1,0 +1,89 @@
+{
+    "date": "2026-08-07",
+    "racers": {
+        "3282": {
+            "number": 3282,
+            "name": "池本 輝明",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "3616": {
+            "number": 3616,
+            "name": "中村 真",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "3660": {
+            "number": 3660,
+            "name": "長谷川 親王",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "3721": {
+            "number": 3721,
+            "name": "守田 俊介",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "3834": {
+            "number": 3834,
+            "name": "細川 明人",
+            "race_count": 1,
+            "changed_race_count": 1,
+            "changed_race_rate": 1
+        },
+        "4063": {
+            "number": 4063,
+            "name": "市橋 卓士",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "4211": {
+            "number": 4211,
+            "name": "村田 敦",
+            "race_count": 1,
+            "changed_race_count": 1,
+            "changed_race_rate": 1
+        },
+        "4247": {
+            "number": 4247,
+            "name": "齊藤 優",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "4343": {
+            "number": 4343,
+            "name": "村岡 賢",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "4495": {
+            "number": 4495,
+            "name": "森 晋太郎",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "5020": {
+            "number": 5020,
+            "name": "宮村 勇哉",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "5423": {
+            "number": 5423,
+            "name": "高橋 嗣穏",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        }
+    }
+}

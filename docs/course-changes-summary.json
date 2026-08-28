@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-08-28T00:19:11+00:00",
+    "generated_at": "2026-08-28T15:11:25+00:00",
     "racers": {
         "4778": {
             "number": 4778,
@@ -239,19 +239,19 @@
             "changed_race_count": 20,
             "changed_race_rate": 0.1266
         },
-        "4732": {
-            "number": 4732,
-            "name": "堀本 和也",
-            "race_count": 168,
-            "changed_race_count": 21,
-            "changed_race_rate": 0.125
-        },
         "5282": {
             "number": 5282,
             "name": "中本 大樹",
             "race_count": 160,
             "changed_race_count": 20,
             "changed_race_rate": 0.125
+        },
+        "4732": {
+            "number": 4732,
+            "name": "堀本 和也",
+            "race_count": 169,
+            "changed_race_count": 21,
+            "changed_race_rate": 0.1243
         },
         "3876": {
             "number": 3876,
@@ -386,13 +386,6 @@
             "changed_race_count": 15,
             "changed_race_rate": 0.1145
         },
-        "3834": {
-            "number": 3834,
-            "name": "細川 明人",
-            "race_count": 131,
-            "changed_race_count": 15,
-            "changed_race_rate": 0.1145
-        },
         "3946": {
             "number": 3946,
             "name": "赤岩 善生",
@@ -420,6 +413,13 @@
             "race_count": 124,
             "changed_race_count": 14,
             "changed_race_rate": 0.1129
+        },
+        "3834": {
+            "number": 3834,
+            "name": "細川 明人",
+            "race_count": 133,
+            "changed_race_count": 15,
+            "changed_race_rate": 0.1128
         },
         "3857": {
             "number": 3857,
@@ -631,13 +631,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.102
         },
-        "5355": {
-            "number": 5355,
-            "name": "萩原 丈太朗",
-            "race_count": 118,
-            "changed_race_count": 12,
-            "changed_race_rate": 0.1017
-        },
         "5234": {
             "number": 5234,
             "name": "塚越 海斗",
@@ -666,12 +659,12 @@
             "changed_race_count": 11,
             "changed_race_rate": 0.1009
         },
-        "2538": {
-            "number": 2538,
-            "name": "高橋 二朗",
-            "race_count": 139,
-            "changed_race_count": 14,
-            "changed_race_rate": 0.1007
+        "5355": {
+            "number": 5355,
+            "name": "萩原 丈太朗",
+            "race_count": 119,
+            "changed_race_count": 12,
+            "changed_race_rate": 0.1008
         },
         "4020": {
             "number": 4020,
@@ -699,6 +692,13 @@
             "name": "村田 敦",
             "race_count": 150,
             "changed_race_count": 15,
+            "changed_race_rate": 0.1
+        },
+        "2538": {
+            "number": 2538,
+            "name": "高橋 二朗",
+            "race_count": 140,
+            "changed_race_count": 14,
             "changed_race_rate": 0.1
         },
         "4162": {
@@ -764,19 +764,19 @@
             "changed_race_count": 15,
             "changed_race_rate": 0.0974
         },
-        "4908": {
-            "number": 4908,
-            "name": "上田 龍星",
-            "race_count": 154,
-            "changed_race_count": 15,
-            "changed_race_rate": 0.0974
-        },
         "3822": {
             "number": 3822,
             "name": "平尾 崇典",
             "race_count": 144,
             "changed_race_count": 14,
             "changed_race_rate": 0.0972
+        },
+        "4908": {
+            "number": 4908,
+            "name": "上田 龍星",
+            "race_count": 155,
+            "changed_race_count": 15,
+            "changed_race_rate": 0.0968
         },
         "4216": {
             "number": 4216,
@@ -848,13 +848,6 @@
             "changed_race_count": 10,
             "changed_race_rate": 0.0943
         },
-        "2878": {
-            "number": 2878,
-            "name": "富山 弘幸",
-            "race_count": 138,
-            "changed_race_count": 13,
-            "changed_race_rate": 0.0942
-        },
         "3081": {
             "number": 3081,
             "name": "岡本 慎治",
@@ -868,6 +861,13 @@
             "race_count": 171,
             "changed_race_count": 16,
             "changed_race_rate": 0.0936
+        },
+        "2878": {
+            "number": 2878,
+            "name": "富山 弘幸",
+            "race_count": 139,
+            "changed_race_count": 13,
+            "changed_race_rate": 0.0935
         },
         "4537": {
             "number": 4537,
@@ -918,13 +918,6 @@
             "changed_race_count": 13,
             "changed_race_rate": 0.0922
         },
-        "5134": {
-            "number": 5134,
-            "name": "大原 祥昌",
-            "race_count": 141,
-            "changed_race_count": 13,
-            "changed_race_rate": 0.0922
-        },
         "5421": {
             "number": 5421,
             "name": "原田 朱理",
@@ -967,6 +960,13 @@
             "changed_race_count": 12,
             "changed_race_rate": 0.0916
         },
+        "5134": {
+            "number": 5134,
+            "name": "大原 祥昌",
+            "race_count": 142,
+            "changed_race_count": 13,
+            "changed_race_rate": 0.0915
+        },
         "4002": {
             "number": 4002,
             "name": "古結 宏",
@@ -987,13 +987,6 @@
             "race_count": 164,
             "changed_race_count": 15,
             "changed_race_rate": 0.0915
-        },
-        "4661": {
-            "number": 4661,
-            "name": "中島 昂章",
-            "race_count": 175,
-            "changed_race_count": 16,
-            "changed_race_rate": 0.0914
         },
         "4508": {
             "number": 4508,
@@ -1021,6 +1014,13 @@
             "name": "吉田 祐貴",
             "race_count": 99,
             "changed_race_count": 9,
+            "changed_race_rate": 0.0909
+        },
+        "4661": {
+            "number": 4661,
+            "name": "中島 昂章",
+            "race_count": 176,
+            "changed_race_count": 16,
             "changed_race_rate": 0.0909
         },
         "5018": {
@@ -1072,13 +1072,6 @@
             "changed_race_count": 4,
             "changed_race_rate": 0.0889
         },
-        "5298": {
-            "number": 5298,
-            "name": "水谷 理人",
-            "race_count": 169,
-            "changed_race_count": 15,
-            "changed_race_rate": 0.0888
-        },
         "4959": {
             "number": 4959,
             "name": "井上 忠政",
@@ -1114,11 +1107,11 @@
             "changed_race_count": 15,
             "changed_race_rate": 0.0882
         },
-        "5418": {
-            "number": 5418,
-            "name": "堀内 亜海",
-            "race_count": 102,
-            "changed_race_count": 9,
+        "5298": {
+            "number": 5298,
+            "name": "水谷 理人",
+            "race_count": 170,
+            "changed_race_count": 15,
             "changed_race_rate": 0.0882
         },
         "3546": {
@@ -1163,6 +1156,13 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0874
         },
+        "5418": {
+            "number": 5418,
+            "name": "堀内 亜海",
+            "race_count": 103,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0874
+        },
         "3660": {
             "number": 3660,
             "name": "長谷川 親王",
@@ -1182,13 +1182,6 @@
             "name": "竹内 来",
             "race_count": 115,
             "changed_race_count": 10,
-            "changed_race_rate": 0.087
-        },
-        "3619": {
-            "number": 3619,
-            "name": "長谷川 充",
-            "race_count": 138,
-            "changed_race_count": 12,
             "changed_race_rate": 0.087
         },
         "3251": {
@@ -1233,6 +1226,13 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0865
         },
+        "3619": {
+            "number": 3619,
+            "name": "長谷川 充",
+            "race_count": 139,
+            "changed_race_count": 12,
+            "changed_race_rate": 0.0863
+        },
         "5114": {
             "number": 5114,
             "name": "小林 孝彰",
@@ -1261,25 +1261,11 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.086
         },
-        "4210": {
-            "number": 4210,
-            "name": "松村 康太",
-            "race_count": 175,
-            "changed_race_count": 15,
-            "changed_race_rate": 0.0857
-        },
         "4523": {
             "number": 4523,
             "name": "中村 辰也",
             "race_count": 140,
             "changed_race_count": 12,
-            "changed_race_rate": 0.0857
-        },
-        "5415": {
-            "number": 5415,
-            "name": "阿部 未侑",
-            "race_count": 70,
-            "changed_race_count": 6,
             "changed_race_rate": 0.0857
         },
         "4526": {
@@ -1295,6 +1281,13 @@
             "race_count": 117,
             "changed_race_count": 10,
             "changed_race_rate": 0.0855
+        },
+        "4210": {
+            "number": 4210,
+            "name": "松村 康太",
+            "race_count": 176,
+            "changed_race_count": 15,
+            "changed_race_rate": 0.0852
         },
         "5166": {
             "number": 5166,
@@ -1330,6 +1323,13 @@
             "race_count": 165,
             "changed_race_count": 14,
             "changed_race_rate": 0.0848
+        },
+        "5415": {
+            "number": 5415,
+            "name": "阿部 未侑",
+            "race_count": 71,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.0845
         },
         "4693": {
             "number": 4693,
@@ -1772,13 +1772,6 @@
             "changed_race_count": 11,
             "changed_race_rate": 0.0769
         },
-        "4739": {
-            "number": 4739,
-            "name": "中村 晃朋",
-            "race_count": 169,
-            "changed_race_count": 13,
-            "changed_race_rate": 0.0769
-        },
         "4059": {
             "number": 4059,
             "name": "入澤 友治",
@@ -1791,13 +1784,6 @@
             "name": "宇田川 信一",
             "race_count": 104,
             "changed_race_count": 8,
-            "changed_race_rate": 0.0769
-        },
-        "5160": {
-            "number": 5160,
-            "name": "藤森 陸斗",
-            "race_count": 195,
-            "changed_race_count": 15,
             "changed_race_rate": 0.0769
         },
         "5047": {
@@ -1821,11 +1807,25 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0769
         },
+        "4739": {
+            "number": 4739,
+            "name": "中村 晃朋",
+            "race_count": 170,
+            "changed_race_count": 13,
+            "changed_race_rate": 0.0765
+        },
         "4083": {
             "number": 4083,
             "name": "福島 勇樹",
             "race_count": 183,
             "changed_race_count": 14,
+            "changed_race_rate": 0.0765
+        },
+        "5160": {
+            "number": 5160,
+            "name": "藤森 陸斗",
+            "race_count": 196,
+            "changed_race_count": 15,
             "changed_race_rate": 0.0765
         },
         "4463": {
@@ -2066,13 +2066,6 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0741
         },
-        "4901": {
-            "number": 4901,
-            "name": "出口 舞有子",
-            "race_count": 122,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0738
-        },
         "3889": {
             "number": 3889,
             "name": "須藤 隆雄",
@@ -2114,6 +2107,13 @@
             "race_count": 150,
             "changed_race_count": 11,
             "changed_race_rate": 0.0733
+        },
+        "4901": {
+            "number": 4901,
+            "name": "出口 舞有子",
+            "race_count": 123,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0732
         },
         "3721": {
             "number": 3721,
@@ -2177,13 +2177,6 @@
             "race_count": 152,
             "changed_race_count": 11,
             "changed_race_rate": 0.0724
-        },
-        "5434": {
-            "number": 5434,
-            "name": "藤田 康生",
-            "race_count": 111,
-            "changed_race_count": 8,
-            "changed_race_rate": 0.0721
         },
         "3156": {
             "number": 3156,
@@ -2262,6 +2255,13 @@
             "changed_race_count": 10,
             "changed_race_rate": 0.0714
         },
+        "5434": {
+            "number": 5434,
+            "name": "藤田 康生",
+            "race_count": 112,
+            "changed_race_count": 8,
+            "changed_race_rate": 0.0714
+        },
         "3989": {
             "number": 3989,
             "name": "熊本 英一",
@@ -2332,13 +2332,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0709
         },
-        "5115": {
-            "number": 5115,
-            "name": "香川 颯太",
-            "race_count": 127,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0709
-        },
         "4557": {
             "number": 4557,
             "name": "松尾 光広",
@@ -2388,13 +2381,6 @@
             "changed_race_count": 7,
             "changed_race_rate": 0.0707
         },
-        "4907": {
-            "number": 4907,
-            "name": "小池 修平",
-            "race_count": 170,
-            "changed_race_count": 12,
-            "changed_race_rate": 0.0706
-        },
         "4516": {
             "number": 4516,
             "name": "野口 勝弘",
@@ -2423,9 +2409,9 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0703
         },
-        "4104": {
-            "number": 4104,
-            "name": "木下 陽介",
+        "5115": {
+            "number": 5115,
+            "name": "香川 颯太",
             "race_count": 128,
             "changed_race_count": 9,
             "changed_race_rate": 0.0703
@@ -2444,6 +2430,13 @@
             "changed_race_count": 12,
             "changed_race_rate": 0.0702
         },
+        "4907": {
+            "number": 4907,
+            "name": "小池 修平",
+            "race_count": 171,
+            "changed_race_count": 12,
+            "changed_race_rate": 0.0702
+        },
         "4632": {
             "number": 4632,
             "name": "長尾 京志郎",
@@ -2454,13 +2447,6 @@
         "4344": {
             "number": 4344,
             "name": "新田 雄史",
-            "race_count": 157,
-            "changed_race_count": 11,
-            "changed_race_rate": 0.0701
-        },
-        "4811": {
-            "number": 4811,
-            "name": "向井田 佑紀",
             "race_count": 157,
             "changed_race_count": 11,
             "changed_race_rate": 0.0701
@@ -2500,6 +2486,13 @@
             "changed_race_count": 12,
             "changed_race_rate": 0.0698
         },
+        "4104": {
+            "number": 4104,
+            "name": "木下 陽介",
+            "race_count": 129,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0698
+        },
         "3713": {
             "number": 3713,
             "name": "伊藤 誠二",
@@ -2510,6 +2503,13 @@
         "3912": {
             "number": 3912,
             "name": "川原 正明",
+            "race_count": 158,
+            "changed_race_count": 11,
+            "changed_race_rate": 0.0696
+        },
+        "4811": {
+            "number": 4811,
+            "name": "向井田 佑紀",
             "race_count": 158,
             "changed_race_count": 11,
             "changed_race_rate": 0.0696
@@ -2591,13 +2591,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0692
         },
-        "4856": {
-            "number": 4856,
-            "name": "豊田 健士郎",
-            "race_count": 188,
-            "changed_race_count": 13,
-            "changed_race_rate": 0.0691
-        },
         "4649": {
             "number": 4649,
             "name": "和田 操拓",
@@ -2618,6 +2611,13 @@
             "race_count": 87,
             "changed_race_count": 6,
             "changed_race_rate": 0.069
+        },
+        "4856": {
+            "number": 4856,
+            "name": "豊田 健士郎",
+            "race_count": 189,
+            "changed_race_count": 13,
+            "changed_race_rate": 0.0688
         },
         "3813": {
             "number": 3813,
@@ -2766,13 +2766,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0677
         },
-        "4380": {
-            "number": 4380,
-            "name": "鈴木 峻佑",
-            "race_count": 133,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0677
-        },
         "4220": {
             "number": 4220,
             "name": "深川 和仁",
@@ -2829,6 +2822,13 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0672
         },
+        "4380": {
+            "number": 4380,
+            "name": "鈴木 峻佑",
+            "race_count": 134,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0672
+        },
         "4624": {
             "number": 4624,
             "name": "高田 明",
@@ -2839,13 +2839,6 @@
         "3952": {
             "number": 3952,
             "name": "中澤 和志",
-            "race_count": 179,
-            "changed_race_count": 12,
-            "changed_race_rate": 0.067
-        },
-        "3641": {
-            "number": 3641,
-            "name": "一瀬 明",
             "race_count": 179,
             "changed_race_count": 12,
             "changed_race_rate": 0.067
@@ -2899,11 +2892,11 @@
             "changed_race_count": 10,
             "changed_race_rate": 0.0667
         },
-        "4152": {
-            "number": 4152,
-            "name": "深水 慎一郎",
-            "race_count": 135,
-            "changed_race_count": 9,
+        "3641": {
+            "number": 3641,
+            "name": "一瀬 明",
+            "race_count": 180,
+            "changed_race_count": 12,
             "changed_race_rate": 0.0667
         },
         "4365": {
@@ -2941,13 +2934,6 @@
             "changed_race_count": 7,
             "changed_race_rate": 0.0667
         },
-        "4298": {
-            "number": 4298,
-            "name": "宮下 元胤",
-            "race_count": 181,
-            "changed_race_count": 12,
-            "changed_race_rate": 0.0663
-        },
         "4994": {
             "number": 4994,
             "name": "山本 梨菜",
@@ -2962,11 +2948,25 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0662
         },
+        "4152": {
+            "number": 4152,
+            "name": "深水 慎一郎",
+            "race_count": 136,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0662
+        },
         "4294": {
             "number": 4294,
             "name": "古賀 繁輝",
             "race_count": 167,
             "changed_race_count": 11,
+            "changed_race_rate": 0.0659
+        },
+        "4298": {
+            "number": 4298,
+            "name": "宮下 元胤",
+            "race_count": 182,
+            "changed_race_count": 12,
             "changed_race_rate": 0.0659
         },
         "5324": {
@@ -3046,13 +3046,6 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0652
         },
-        "3906": {
-            "number": 3906,
-            "name": "飯山 晃三",
-            "race_count": 138,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0652
-        },
         "4004": {
             "number": 4004,
             "name": "山本 浩輔",
@@ -3119,6 +3112,13 @@
         "4044": {
             "number": 4044,
             "name": "湯川 浩司",
+            "race_count": 139,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0647
+        },
+        "3906": {
+            "number": 3906,
+            "name": "飯山 晃三",
             "race_count": 139,
             "changed_race_count": 9,
             "changed_race_rate": 0.0647
@@ -3368,23 +3368,9 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0625
         },
-        "4990": {
-            "number": 4990,
-            "name": "田中 博子",
-            "race_count": 64,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0625
-        },
         "3482": {
             "number": 3482,
             "name": "金子 猛志",
-            "race_count": 176,
-            "changed_race_count": 11,
-            "changed_race_rate": 0.0625
-        },
-        "3983": {
-            "number": 3983,
-            "name": "須藤 博倫",
             "race_count": 176,
             "changed_race_count": 11,
             "changed_race_rate": 0.0625
@@ -3401,13 +3387,6 @@
             "name": "村田 修次",
             "race_count": 160,
             "changed_race_count": 10,
-            "changed_race_rate": 0.0625
-        },
-        "5370": {
-            "number": 5370,
-            "name": "日隈 茜",
-            "race_count": 64,
-            "changed_race_count": 4,
             "changed_race_rate": 0.0625
         },
         "4890": {
@@ -3429,6 +3408,13 @@
             "name": "下出 卓矢",
             "race_count": 161,
             "changed_race_count": 10,
+            "changed_race_rate": 0.0621
+        },
+        "3983": {
+            "number": 3983,
+            "name": "須藤 博倫",
+            "race_count": 177,
+            "changed_race_count": 11,
             "changed_race_rate": 0.0621
         },
         "3866": {
@@ -3487,13 +3473,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0616
         },
-        "4410": {
-            "number": 4410,
-            "name": "井上 大輔",
-            "race_count": 146,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0616
-        },
         "4053": {
             "number": 4053,
             "name": "芦澤 望",
@@ -3506,6 +3485,13 @@
             "name": "酒井 俊弘",
             "race_count": 130,
             "changed_race_count": 8,
+            "changed_race_rate": 0.0615
+        },
+        "4990": {
+            "number": 4990,
+            "name": "田中 博子",
+            "race_count": 65,
+            "changed_race_count": 4,
             "changed_race_rate": 0.0615
         },
         "4177": {
@@ -3529,11 +3515,11 @@
             "changed_race_count": 11,
             "changed_race_rate": 0.0615
         },
-        "4897": {
-            "number": 4897,
-            "name": "深見 亜由美",
-            "race_count": 130,
-            "changed_race_count": 8,
+        "5370": {
+            "number": 5370,
+            "name": "日隈 茜",
+            "race_count": 65,
+            "changed_race_count": 4,
             "changed_race_rate": 0.0615
         },
         "3315": {
@@ -3550,23 +3536,23 @@
             "changed_race_count": 10,
             "changed_race_rate": 0.0613
         },
-        "5068": {
-            "number": 5068,
-            "name": "前田 滉",
+        "4410": {
+            "number": 4410,
+            "name": "井上 大輔",
             "race_count": 147,
             "changed_race_count": 9,
-            "changed_race_rate": 0.0612
-        },
-        "5417": {
-            "number": 5417,
-            "name": "小柳 勝希",
-            "race_count": 98,
-            "changed_race_count": 6,
             "changed_race_rate": 0.0612
         },
         "3339": {
             "number": 3339,
             "name": "泉 具巳",
+            "race_count": 131,
+            "changed_race_count": 8,
+            "changed_race_rate": 0.0611
+        },
+        "4897": {
+            "number": 4897,
+            "name": "深見 亜由美",
             "race_count": 131,
             "changed_race_count": 8,
             "changed_race_rate": 0.0611
@@ -3585,6 +3571,13 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0608
         },
+        "5068": {
+            "number": 5068,
+            "name": "前田 滉",
+            "race_count": 148,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0608
+        },
         "3908": {
             "number": 3908,
             "name": "重成 一人",
@@ -3599,16 +3592,16 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0606
         },
+        "5417": {
+            "number": 5417,
+            "name": "小柳 勝希",
+            "race_count": 99,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.0606
+        },
         "5369": {
             "number": 5369,
             "name": "岡崎 凪汰",
-            "race_count": 132,
-            "changed_race_count": 8,
-            "changed_race_rate": 0.0606
-        },
-        "3604": {
-            "number": 3604,
-            "name": "武藤 綾子",
             "race_count": 132,
             "changed_race_count": 8,
             "changed_race_rate": 0.0606
@@ -3644,20 +3637,6 @@
         "4470": {
             "number": 4470,
             "name": "平田 健之佑",
-            "race_count": 149,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0604
-        },
-        "4974": {
-            "number": 4974,
-            "name": "安井 瑞紀",
-            "race_count": 149,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0604
-        },
-        "4395": {
-            "number": 4395,
-            "name": "下河 雅史",
             "race_count": 149,
             "changed_race_count": 9,
             "changed_race_rate": 0.0604
@@ -3711,18 +3690,18 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0602
         },
-        "5106": {
-            "number": 5106,
-            "name": "山崎 祥",
-            "race_count": 133,
-            "changed_race_count": 8,
-            "changed_race_rate": 0.0602
-        },
         "5237": {
             "number": 5237,
             "name": "永松 良教",
             "race_count": 83,
             "changed_race_count": 5,
+            "changed_race_rate": 0.0602
+        },
+        "3604": {
+            "number": 3604,
+            "name": "武藤 綾子",
+            "race_count": 133,
+            "changed_race_count": 8,
             "changed_race_rate": 0.0602
         },
         "4593": {
@@ -3749,6 +3728,20 @@
         "4848": {
             "number": 4848,
             "name": "仲谷 颯仁",
+            "race_count": 150,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.06
+        },
+        "4974": {
+            "number": 4974,
+            "name": "安井 瑞紀",
+            "race_count": 150,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.06
+        },
+        "4395": {
+            "number": 4395,
+            "name": "下河 雅史",
             "race_count": 150,
             "changed_race_count": 9,
             "changed_race_rate": 0.06
@@ -3805,6 +3798,13 @@
         "4440": {
             "number": 4440,
             "name": "萩原 知哉",
+            "race_count": 134,
+            "changed_race_count": 8,
+            "changed_race_rate": 0.0597
+        },
+        "5106": {
+            "number": 5106,
+            "name": "山崎 祥",
             "race_count": 134,
             "changed_race_count": 8,
             "changed_race_rate": 0.0597
@@ -3921,13 +3921,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0584
         },
-        "3350": {
-            "number": 3350,
-            "name": "藤本 佳史",
-            "race_count": 154,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0584
-        },
         "3441": {
             "number": 3441,
             "name": "土屋 太朗",
@@ -3973,6 +3966,13 @@
         "4173": {
             "number": 4173,
             "name": "岡谷 健吾",
+            "race_count": 155,
+            "changed_race_count": 9,
+            "changed_race_rate": 0.0581
+        },
+        "3350": {
+            "number": 3350,
+            "name": "藤本 佳史",
             "race_count": 155,
             "changed_race_count": 9,
             "changed_race_rate": 0.0581
@@ -4026,13 +4026,6 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.058
         },
-        "5320": {
-            "number": 5320,
-            "name": "岩崎 麗子",
-            "race_count": 121,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0579
-        },
         "3950": {
             "number": 3950,
             "name": "石川 哲秀",
@@ -4068,13 +4061,6 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0576
         },
-        "3471": {
-            "number": 3471,
-            "name": "赤峰 和也",
-            "race_count": 122,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0574
-        },
         "5248": {
             "number": 5248,
             "name": "本田 愛",
@@ -4085,6 +4071,13 @@
         "5302": {
             "number": 5302,
             "name": "秋末 秦悟",
+            "race_count": 122,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0574
+        },
+        "5320": {
+            "number": 5320,
+            "name": "岩崎 麗子",
             "race_count": 122,
             "changed_race_count": 7,
             "changed_race_rate": 0.0574
@@ -4103,13 +4096,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0573
         },
-        "5288": {
-            "number": 5288,
-            "name": "尾道 佳諭",
-            "race_count": 105,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0571
-        },
         "4274": {
             "number": 4274,
             "name": "長畑 友輔",
@@ -4123,6 +4109,13 @@
             "race_count": 158,
             "changed_race_count": 9,
             "changed_race_rate": 0.057
+        },
+        "3471": {
+            "number": 3471,
+            "name": "赤峰 和也",
+            "race_count": 123,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0569
         },
         "3557": {
             "number": 3557,
@@ -4166,16 +4159,16 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0566
         },
-        "4961": {
-            "number": 4961,
-            "name": "西橋 奈未",
-            "race_count": 159,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.0566
-        },
         "4803": {
             "number": 4803,
             "name": "飯田 庄吾",
+            "race_count": 106,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.0566
+        },
+        "5288": {
+            "number": 5288,
+            "name": "尾道 佳諭",
             "race_count": 106,
             "changed_race_count": 6,
             "changed_race_rate": 0.0566
@@ -4213,6 +4206,13 @@
             "name": "菅沼 佳昭",
             "race_count": 142,
             "changed_race_count": 8,
+            "changed_race_rate": 0.0563
+        },
+        "4961": {
+            "number": 4961,
+            "name": "西橋 奈未",
+            "race_count": 160,
+            "changed_race_count": 9,
             "changed_race_rate": 0.0563
         },
         "4269": {
@@ -4306,13 +4306,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0556
         },
-        "4771": {
-            "number": 4771,
-            "name": "下寺 秀和",
-            "race_count": 180,
-            "changed_race_count": 10,
-            "changed_race_rate": 0.0556
-        },
         "5346": {
             "number": 5346,
             "name": "中村 紋夕梨",
@@ -4390,11 +4383,11 @@
             "changed_race_count": 10,
             "changed_race_rate": 0.0552
         },
-        "4184": {
-            "number": 4184,
-            "name": "渡邊 雄一郎",
-            "race_count": 145,
-            "changed_race_count": 8,
+        "4771": {
+            "number": 4771,
+            "name": "下寺 秀和",
+            "race_count": 181,
+            "changed_race_count": 10,
             "changed_race_rate": 0.0552
         },
         "4652": {
@@ -4451,6 +4444,13 @@
             "name": "西丸 侑太朗",
             "race_count": 219,
             "changed_race_count": 12,
+            "changed_race_rate": 0.0548
+        },
+        "4184": {
+            "number": 4184,
+            "name": "渡邊 雄一郎",
+            "race_count": 146,
+            "changed_race_count": 8,
             "changed_race_rate": 0.0548
         },
         "3175": {
@@ -4516,20 +4516,6 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0544
         },
-        "5325": {
-            "number": 5325,
-            "name": "澁川 夏",
-            "race_count": 147,
-            "changed_race_count": 8,
-            "changed_race_rate": 0.0544
-        },
-        "3814": {
-            "number": 3814,
-            "name": "金子 貴志",
-            "race_count": 147,
-            "changed_race_count": 8,
-            "changed_race_rate": 0.0544
-        },
         "5258": {
             "number": 5258,
             "name": "仲本 舜",
@@ -4558,9 +4544,23 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0542
         },
+        "5325": {
+            "number": 5325,
+            "name": "澁川 夏",
+            "race_count": 148,
+            "changed_race_count": 8,
+            "changed_race_rate": 0.0541
+        },
         "3566": {
             "number": 3566,
             "name": "川添 英正",
+            "race_count": 148,
+            "changed_race_count": 8,
+            "changed_race_rate": 0.0541
+        },
+        "3814": {
+            "number": 3814,
+            "name": "金子 貴志",
             "race_count": 148,
             "changed_race_count": 8,
             "changed_race_rate": 0.0541
@@ -4598,13 +4598,6 @@
             "name": "西尾 亮輔",
             "race_count": 130,
             "changed_race_count": 7,
-            "changed_race_rate": 0.0538
-        },
-        "5373": {
-            "number": 5373,
-            "name": "諏訪 玲奈",
-            "race_count": 93,
-            "changed_race_count": 5,
             "changed_race_rate": 0.0538
         },
         "3434": {
@@ -4677,16 +4670,16 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0533
         },
-        "5358": {
-            "number": 5358,
-            "name": "増本 杏珠",
-            "race_count": 75,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0533
-        },
         "5061": {
             "number": 5061,
             "name": "中村 駿平",
+            "race_count": 94,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0532
+        },
+        "5373": {
+            "number": 5373,
+            "name": "諏訪 玲奈",
             "race_count": 94,
             "changed_race_count": 5,
             "changed_race_rate": 0.0532
@@ -4796,6 +4789,13 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0526
         },
+        "5358": {
+            "number": 5358,
+            "name": "増本 杏珠",
+            "race_count": 76,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0526
+        },
         "5413": {
             "number": 5413,
             "name": "宮城 那菜",
@@ -4806,13 +4806,6 @@
         "4898": {
             "number": 4898,
             "name": "菊地 敬介",
-            "race_count": 114,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0526
-        },
-        "4627": {
-            "number": 4627,
-            "name": "藤原 菜希",
             "race_count": 114,
             "changed_race_count": 6,
             "changed_race_rate": 0.0526
@@ -4838,9 +4831,9 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0523
         },
-        "4845": {
-            "number": 4845,
-            "name": "前田 紗希",
+        "4627": {
+            "number": 4627,
+            "name": "藤原 菜希",
             "race_count": 115,
             "changed_race_count": 6,
             "changed_race_rate": 0.0522
@@ -4862,13 +4855,6 @@
         "4850": {
             "number": 4850,
             "name": "野中 一平",
-            "race_count": 173,
-            "changed_race_count": 9,
-            "changed_race_rate": 0.052
-        },
-        "4927": {
-            "number": 4927,
-            "name": "関野 文",
             "race_count": 173,
             "changed_race_count": 9,
             "changed_race_rate": 0.052
@@ -4922,13 +4908,6 @@
             "changed_race_count": 7,
             "changed_race_rate": 0.0519
         },
-        "3863": {
-            "number": 3863,
-            "name": "海老澤 泰行",
-            "race_count": 135,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0519
-        },
         "5147": {
             "number": 5147,
             "name": "田中 勇輔",
@@ -4955,6 +4934,20 @@
             "name": "羽野 諒",
             "race_count": 116,
             "changed_race_count": 6,
+            "changed_race_rate": 0.0517
+        },
+        "4845": {
+            "number": 4845,
+            "name": "前田 紗希",
+            "race_count": 116,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.0517
+        },
+        "4927": {
+            "number": 4927,
+            "name": "関野 文",
+            "race_count": 174,
+            "changed_race_count": 9,
             "changed_race_rate": 0.0517
         },
         "3355": {
@@ -5009,6 +5002,13 @@
         "3828": {
             "number": 3828,
             "name": "明石 正之",
+            "race_count": 136,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0515
+        },
+        "3863": {
+            "number": 3863,
+            "name": "海老澤 泰行",
             "race_count": 136,
             "changed_race_count": 7,
             "changed_race_rate": 0.0515
@@ -5279,13 +5279,6 @@
             "changed_race_count": 7,
             "changed_race_rate": 0.0496
         },
-        "4461": {
-            "number": 4461,
-            "name": "安田 吉宏",
-            "race_count": 141,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0496
-        },
         "3746": {
             "number": 3746,
             "name": "岡瀬 正人",
@@ -5317,6 +5310,13 @@
         "4389": {
             "number": 4389,
             "name": "伊藤 喜智",
+            "race_count": 142,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0493
+        },
+        "4461": {
+            "number": 4461,
+            "name": "安田 吉宏",
             "race_count": 142,
             "changed_race_count": 7,
             "changed_race_rate": 0.0493
@@ -5447,25 +5447,11 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0484
         },
-        "5194": {
-            "number": 5194,
-            "name": "大久保 佑香",
-            "race_count": 124,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0484
-        },
         "4245": {
             "number": 4245,
             "name": "高橋 直哉",
             "race_count": 124,
             "changed_race_count": 6,
-            "changed_race_rate": 0.0484
-        },
-        "5200": {
-            "number": 5200,
-            "name": "筒井 美琴",
-            "race_count": 62,
-            "changed_race_count": 3,
             "changed_race_rate": 0.0484
         },
         "5240": {
@@ -5523,6 +5509,13 @@
             "race_count": 187,
             "changed_race_count": 9,
             "changed_race_rate": 0.0481
+        },
+        "5194": {
+            "number": 5194,
+            "name": "大久保 佑香",
+            "race_count": 125,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.048
         },
         "5190": {
             "number": 5190,
@@ -5608,13 +5601,6 @@
             "changed_race_count": 9,
             "changed_race_rate": 0.0476
         },
-        "4462": {
-            "number": 4462,
-            "name": "夏山 亮平",
-            "race_count": 105,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0476
-        },
         "4825": {
             "number": 4825,
             "name": "倉持 莉々",
@@ -5649,6 +5635,13 @@
             "race_count": 169,
             "changed_race_count": 8,
             "changed_race_rate": 0.0473
+        },
+        "4462": {
+            "number": 4462,
+            "name": "夏山 亮平",
+            "race_count": 106,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0472
         },
         "5045": {
             "number": 5045,
@@ -5706,6 +5699,13 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0469
         },
+        "5200": {
+            "number": 5200,
+            "name": "筒井 美琴",
+            "race_count": 64,
+            "changed_race_count": 3,
+            "changed_race_rate": 0.0469
+        },
         "4736": {
             "number": 4736,
             "name": "高倉 和士",
@@ -5734,30 +5734,9 @@
             "changed_race_count": 7,
             "changed_race_rate": 0.0467
         },
-        "4551": {
-            "number": 4551,
-            "name": "三川 昂暁",
-            "race_count": 150,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0467
-        },
-        "5265": {
-            "number": 5265,
-            "name": "大廣 咲季",
-            "race_count": 150,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0467
-        },
         "4134": {
             "number": 4134,
             "name": "杉山 貴博",
-            "race_count": 150,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0467
-        },
-        "5213": {
-            "number": 5213,
-            "name": "湯淺 紀香",
             "race_count": 150,
             "changed_race_count": 7,
             "changed_race_rate": 0.0467
@@ -5811,6 +5790,20 @@
             "changed_race_count": 7,
             "changed_race_rate": 0.0464
         },
+        "4551": {
+            "number": 4551,
+            "name": "三川 昂暁",
+            "race_count": 151,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0464
+        },
+        "5265": {
+            "number": 5265,
+            "name": "大廣 咲季",
+            "race_count": 151,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0464
+        },
         "5376": {
             "number": 5376,
             "name": "吉田 一心",
@@ -5821,6 +5814,13 @@
         "3606": {
             "number": 3606,
             "name": "川北 浩貴",
+            "race_count": 151,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0464
+        },
+        "5213": {
+            "number": 5213,
+            "name": "湯淺 紀香",
             "race_count": 151,
             "changed_race_count": 7,
             "changed_race_rate": 0.0464
@@ -5958,20 +5958,6 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0455
         },
-        "4447": {
-            "number": 4447,
-            "name": "深川 麻奈美",
-            "race_count": 154,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0455
-        },
-        "4715": {
-            "number": 4715,
-            "name": "村上 遼",
-            "race_count": 110,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0455
-        },
         "4809": {
             "number": 4809,
             "name": "外崎 悟",
@@ -6028,18 +6014,18 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0455
         },
-        "3833": {
-            "number": 3833,
-            "name": "中辻 博訓",
-            "race_count": 177,
-            "changed_race_count": 8,
-            "changed_race_rate": 0.0452
-        },
         "4261": {
             "number": 4261,
             "name": "岡 祐臣",
             "race_count": 177,
             "changed_race_count": 8,
+            "changed_race_rate": 0.0452
+        },
+        "4447": {
+            "number": 4447,
+            "name": "深川 麻奈美",
+            "race_count": 155,
+            "changed_race_count": 7,
             "changed_race_rate": 0.0452
         },
         "4963": {
@@ -6077,23 +6063,16 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0451
         },
-        "4473": {
-            "number": 4473,
-            "name": "藤堂 里香",
-            "race_count": 133,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0451
-        },
-        "4281": {
-            "number": 4281,
-            "name": "大澤 大夢",
-            "race_count": 133,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0451
-        },
         "4465": {
             "number": 4465,
             "name": "大西 賢",
+            "race_count": 111,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.045
+        },
+        "4715": {
+            "number": 4715,
+            "name": "村上 遼",
             "race_count": 111,
             "changed_race_count": 5,
             "changed_race_rate": 0.045
@@ -6104,6 +6083,13 @@
             "race_count": 111,
             "changed_race_count": 5,
             "changed_race_rate": 0.045
+        },
+        "3833": {
+            "number": 3833,
+            "name": "中辻 博訓",
+            "race_count": 178,
+            "changed_race_count": 8,
+            "changed_race_rate": 0.0449
         },
         "3988": {
             "number": 3988,
@@ -6119,16 +6105,23 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0448
         },
+        "4473": {
+            "number": 4473,
+            "name": "藤堂 里香",
+            "race_count": 134,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.0448
+        },
+        "4281": {
+            "number": 4281,
+            "name": "大澤 大夢",
+            "race_count": 134,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.0448
+        },
         "3853": {
             "number": 3853,
             "name": "岩崎 正哉",
-            "race_count": 157,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0446
-        },
-        "4146": {
-            "number": 4146,
-            "name": "柳橋 宏紀",
             "race_count": 157,
             "changed_race_count": 7,
             "changed_race_rate": 0.0446
@@ -6185,6 +6178,13 @@
         "4489": {
             "number": 4489,
             "name": "岩川 仁士",
+            "race_count": 158,
+            "changed_race_count": 7,
+            "changed_race_rate": 0.0443
+        },
+        "4146": {
+            "number": 4146,
+            "name": "柳橋 宏紀",
             "race_count": 158,
             "changed_race_count": 7,
             "changed_race_rate": 0.0443
@@ -6336,13 +6336,6 @@
             "changed_race_count": 8,
             "changed_race_rate": 0.0435
         },
-        "5230": {
-            "number": 5230,
-            "name": "石原 凪紗",
-            "race_count": 161,
-            "changed_race_count": 7,
-            "changed_race_rate": 0.0435
-        },
         "4432": {
             "number": 4432,
             "name": "黄金井 力良",
@@ -6404,6 +6397,13 @@
             "name": "井上 茂",
             "race_count": 139,
             "changed_race_count": 6,
+            "changed_race_rate": 0.0432
+        },
+        "5230": {
+            "number": 5230,
+            "name": "石原 凪紗",
+            "race_count": 162,
+            "changed_race_count": 7,
             "changed_race_rate": 0.0432
         },
         "4563": {
@@ -6770,13 +6770,6 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0411
         },
-        "5333": {
-            "number": 5333,
-            "name": "山下 智己",
-            "race_count": 73,
-            "changed_race_count": 3,
-            "changed_race_rate": 0.0411
-        },
         "4997": {
             "number": 4997,
             "name": "濱崎 寿里矢",
@@ -6887,6 +6880,13 @@
             "name": "赤羽 克也",
             "race_count": 148,
             "changed_race_count": 6,
+            "changed_race_rate": 0.0405
+        },
+        "5333": {
+            "number": 5333,
+            "name": "山下 智己",
+            "race_count": 74,
+            "changed_race_count": 3,
             "changed_race_rate": 0.0405
         },
         "5419": {
@@ -7267,20 +7267,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0382
         },
-        "4703": {
-            "number": 4703,
-            "name": "森永 隆",
-            "race_count": 157,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0382
-        },
-        "4941": {
-            "number": 4941,
-            "name": "孫崎 百世",
-            "race_count": 131,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0382
-        },
         "3772": {
             "number": 3772,
             "name": "一柳 和孝",
@@ -7298,6 +7284,13 @@
         "4311": {
             "number": 4311,
             "name": "岡村 仁",
+            "race_count": 158,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.038
+        },
+        "4703": {
+            "number": 4703,
+            "name": "森永 隆",
             "race_count": 158,
             "changed_race_count": 6,
             "changed_race_rate": 0.038
@@ -7326,6 +7319,13 @@
         "5343": {
             "number": 5343,
             "name": "小林 礼央",
+            "race_count": 132,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0379
+        },
+        "4941": {
+            "number": 4941,
+            "name": "孫崎 百世",
             "race_count": 132,
             "changed_race_count": 5,
             "changed_race_rate": 0.0379
@@ -7407,13 +7407,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0376
         },
-        "4240": {
-            "number": 4240,
-            "name": "今井 裕梨",
-            "race_count": 133,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0376
-        },
         "4335": {
             "number": 4335,
             "name": "若林 将",
@@ -7449,13 +7442,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0373
         },
-        "3975": {
-            "number": 3975,
-            "name": "小野寺 智洋",
-            "race_count": 161,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0373
-        },
         "4892": {
             "number": 4892,
             "name": "柴田 直哉",
@@ -7484,6 +7470,13 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0373
         },
+        "4240": {
+            "number": 4240,
+            "name": "今井 裕梨",
+            "race_count": 134,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0373
+        },
         "4880": {
             "number": 4880,
             "name": "澤崎 雄哉",
@@ -7503,6 +7496,13 @@
             "name": "久富 政弘",
             "race_count": 135,
             "changed_race_count": 5,
+            "changed_race_rate": 0.037
+        },
+        "3975": {
+            "number": 3975,
+            "name": "小野寺 智洋",
+            "race_count": 162,
+            "changed_race_count": 6,
             "changed_race_rate": 0.037
         },
         "5031": {
@@ -7550,13 +7550,6 @@
         "4723": {
             "number": 4723,
             "name": "寺島 吉彦",
-            "race_count": 109,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0367
-        },
-        "5335": {
-            "number": 5335,
-            "name": "森 陽多",
             "race_count": 109,
             "changed_race_count": 4,
             "changed_race_rate": 0.0367
@@ -7631,6 +7624,13 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0364
         },
+        "5335": {
+            "number": 5335,
+            "name": "森 陽多",
+            "race_count": 110,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0364
+        },
         "4775": {
             "number": 4775,
             "name": "千葉 真弥",
@@ -7645,25 +7645,11 @@
             "changed_race_count": 4,
             "changed_race_rate": 0.0364
         },
-        "5085": {
-            "number": 5085,
-            "name": "中村 栄治",
-            "race_count": 138,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0362
-        },
         "5253": {
             "number": 5253,
             "name": "藤井 太雅",
             "race_count": 83,
             "changed_race_count": 3,
-            "changed_race_rate": 0.0361
-        },
-        "4448": {
-            "number": 4448,
-            "name": "青木 玄太",
-            "race_count": 166,
-            "changed_race_count": 6,
             "changed_race_rate": 0.0361
         },
         "4545": {
@@ -7687,6 +7673,13 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0361
         },
+        "5085": {
+            "number": 5085,
+            "name": "中村 栄治",
+            "race_count": 139,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.036
+        },
         "5192": {
             "number": 5192,
             "name": "中尾 優香",
@@ -7708,16 +7701,16 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.036
         },
-        "5264": {
-            "number": 5264,
-            "name": "登 みひ果",
-            "race_count": 139,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.036
-        },
         "4427": {
             "number": 4427,
             "name": "秦 英悟",
+            "race_count": 167,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.0359
+        },
+        "4448": {
+            "number": 4448,
+            "name": "青木 玄太",
             "race_count": 167,
             "changed_race_count": 6,
             "changed_race_rate": 0.0359
@@ -7755,6 +7748,13 @@
             "name": "遠藤 圭吾",
             "race_count": 112,
             "changed_race_count": 4,
+            "changed_race_rate": 0.0357
+        },
+        "5264": {
+            "number": 5264,
+            "name": "登 みひ果",
+            "race_count": 140,
+            "changed_race_count": 5,
             "changed_race_rate": 0.0357
         },
         "5297": {
@@ -7806,13 +7806,6 @@
             "changed_race_count": 2,
             "changed_race_rate": 0.0357
         },
-        "5217": {
-            "number": 5217,
-            "name": "藤原 碧生",
-            "race_count": 140,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0357
-        },
         "3745": {
             "number": 3745,
             "name": "橋本 年光",
@@ -7830,6 +7823,13 @@
         "3202": {
             "number": 3202,
             "name": "三品 隆浩",
+            "race_count": 141,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0355
+        },
+        "5217": {
+            "number": 5217,
+            "name": "藤原 碧生",
             "race_count": 141,
             "changed_race_count": 5,
             "changed_race_rate": 0.0355
@@ -7939,13 +7939,6 @@
             "changed_race_count": 7,
             "changed_race_rate": 0.0348
         },
-        "4708": {
-            "number": 4708,
-            "name": "半田 尚也",
-            "race_count": 115,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0348
-        },
         "4229": {
             "number": 4229,
             "name": "市川 美宏",
@@ -7967,19 +7960,19 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0347
         },
-        "4423": {
-            "number": 4423,
-            "name": "坂口 貴彦",
-            "race_count": 144,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0347
-        },
         "4876": {
             "number": 4876,
             "name": "梅木 敬太",
             "race_count": 144,
             "changed_race_count": 5,
             "changed_race_rate": 0.0347
+        },
+        "4708": {
+            "number": 4708,
+            "name": "半田 尚也",
+            "race_count": 116,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0345
         },
         "4082": {
             "number": 4082,
@@ -8005,6 +7998,13 @@
         "5188": {
             "number": 5188,
             "name": "武井 莉里佳",
+            "race_count": 145,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0345
+        },
+        "4423": {
+            "number": 4423,
+            "name": "坂口 貴彦",
             "race_count": 145,
             "changed_race_count": 5,
             "changed_race_rate": 0.0345
@@ -8058,13 +8058,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.034
         },
-        "3516": {
-            "number": 3516,
-            "name": "吉原 聖人",
-            "race_count": 118,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0339
-        },
         "4956": {
             "number": 4956,
             "name": "齊藤 大将",
@@ -8099,6 +8092,13 @@
             "race_count": 178,
             "changed_race_count": 6,
             "changed_race_rate": 0.0337
+        },
+        "3516": {
+            "number": 3516,
+            "name": "吉原 聖人",
+            "race_count": 119,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0336
         },
         "4239": {
             "number": 4239,
@@ -8212,13 +8212,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0329
         },
-        "5236": {
-            "number": 5236,
-            "name": "小宮 涼雅",
-            "race_count": 152,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0329
-        },
         "3282": {
             "number": 3282,
             "name": "池本 輝明",
@@ -8257,6 +8250,13 @@
         "4156": {
             "number": 4156,
             "name": "浜野 孝志",
+            "race_count": 153,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0327
+        },
+        "5236": {
+            "number": 5236,
+            "name": "小宮 涼雅",
             "race_count": 153,
             "changed_race_count": 5,
             "changed_race_rate": 0.0327
@@ -8317,13 +8317,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0323
         },
-        "4885": {
-            "number": 4885,
-            "name": "大山 千広",
-            "race_count": 124,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0323
-        },
         "5072": {
             "number": 5072,
             "name": "吉田 杏美",
@@ -8376,6 +8369,13 @@
         "5290": {
             "number": 5290,
             "name": "坂本 一真",
+            "race_count": 125,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.032
+        },
+        "4885": {
+            "number": 4885,
+            "name": "大山 千広",
             "race_count": 125,
             "changed_race_count": 4,
             "changed_race_rate": 0.032
@@ -8499,13 +8499,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0314
         },
-        "4611": {
-            "number": 4611,
-            "name": "今井 美亜",
-            "race_count": 159,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0314
-        },
         "5356": {
             "number": 5356,
             "name": "長谷川 暖",
@@ -8518,6 +8511,13 @@
             "name": "井川 大作",
             "race_count": 128,
             "changed_race_count": 4,
+            "changed_race_rate": 0.0313
+        },
+        "4611": {
+            "number": 4611,
+            "name": "今井 美亜",
+            "race_count": 160,
+            "changed_race_count": 5,
             "changed_race_rate": 0.0313
         },
         "4759": {
@@ -8576,13 +8576,6 @@
             "changed_race_count": 4,
             "changed_race_rate": 0.0308
         },
-        "5206": {
-            "number": 5206,
-            "name": "梅原 祥平",
-            "race_count": 130,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0308
-        },
         "3939": {
             "number": 3939,
             "name": "渡辺 真至",
@@ -8596,13 +8589,6 @@
             "race_count": 163,
             "changed_race_count": 5,
             "changed_race_rate": 0.0307
-        },
-        "4772": {
-            "number": 4772,
-            "name": "石丸 海渡",
-            "race_count": 164,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0305
         },
         "4522": {
             "number": 4522,
@@ -8625,9 +8611,23 @@
             "changed_race_count": 4,
             "changed_race_rate": 0.0305
         },
+        "5206": {
+            "number": 5206,
+            "name": "梅原 祥平",
+            "race_count": 131,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0305
+        },
         "3623": {
             "number": 3623,
             "name": "深川 真二",
+            "race_count": 165,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0303
+        },
+        "4772": {
+            "number": 4772,
+            "name": "石丸 海渡",
             "race_count": 165,
             "changed_race_count": 5,
             "changed_race_rate": 0.0303
@@ -8659,13 +8659,6 @@
             "race_count": 99,
             "changed_race_count": 3,
             "changed_race_rate": 0.0303
-        },
-        "4123": {
-            "number": 4123,
-            "name": "細川 裕子",
-            "race_count": 199,
-            "changed_race_count": 6,
-            "changed_race_rate": 0.0302
         },
         "4487": {
             "number": 4487,
@@ -8709,6 +8702,13 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.03
         },
+        "4123": {
+            "number": 4123,
+            "name": "細川 裕子",
+            "race_count": 200,
+            "changed_race_count": 6,
+            "changed_race_rate": 0.03
+        },
         "5249": {
             "number": 5249,
             "name": "三木 晴斗",
@@ -8723,13 +8723,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0299
         },
-        "4645": {
-            "number": 4645,
-            "name": "上村 純一",
-            "race_count": 167,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0299
-        },
         "4241": {
             "number": 4241,
             "name": "大串 重幸",
@@ -8740,6 +8733,13 @@
         "4543": {
             "number": 4543,
             "name": "重木 輝彦",
+            "race_count": 168,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0298
+        },
+        "4645": {
+            "number": 4645,
+            "name": "上村 純一",
             "race_count": 168,
             "changed_race_count": 5,
             "changed_race_rate": 0.0298
@@ -8779,13 +8779,6 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0294
         },
-        "5326": {
-            "number": 5326,
-            "name": "三嶌 さらら",
-            "race_count": 170,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0294
-        },
         "3580": {
             "number": 3580,
             "name": "水口 由紀",
@@ -8807,13 +8800,6 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0294
         },
-        "4244": {
-            "number": 4244,
-            "name": "鈴木 成美",
-            "race_count": 68,
-            "changed_race_count": 2,
-            "changed_race_rate": 0.0294
-        },
         "5216": {
             "number": 5216,
             "name": "長谷川 晴哉",
@@ -8821,18 +8807,18 @@
             "changed_race_count": 6,
             "changed_race_rate": 0.0293
         },
+        "5326": {
+            "number": 5326,
+            "name": "三嶌 さらら",
+            "race_count": 171,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0292
+        },
         "4243": {
             "number": 4243,
             "name": "西村 歩",
             "race_count": 137,
             "changed_race_count": 4,
-            "changed_race_rate": 0.0292
-        },
-        "4642": {
-            "number": 4642,
-            "name": "松尾 夏海",
-            "race_count": 171,
-            "changed_race_count": 5,
             "changed_race_rate": 0.0292
         },
         "4804": {
@@ -8856,6 +8842,13 @@
             "changed_race_count": 5,
             "changed_race_rate": 0.0291
         },
+        "4642": {
+            "number": 4642,
+            "name": "松尾 夏海",
+            "race_count": 172,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0291
+        },
         "3845": {
             "number": 3845,
             "name": "中谷 朋子",
@@ -8863,19 +8856,19 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0291
         },
+        "4244": {
+            "number": 4244,
+            "name": "鈴木 成美",
+            "race_count": 69,
+            "changed_race_count": 2,
+            "changed_race_rate": 0.029
+        },
         "4965": {
             "number": 4965,
             "name": "福岡 泉水",
             "race_count": 138,
             "changed_race_count": 4,
             "changed_race_rate": 0.029
-        },
-        "4452": {
-            "number": 4452,
-            "name": "松尾 祭",
-            "race_count": 173,
-            "changed_race_count": 5,
-            "changed_race_rate": 0.0289
         },
         "4467": {
             "number": 4467,
@@ -8891,12 +8884,12 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0288
         },
-        "3630": {
-            "number": 3630,
-            "name": "黒田 誠司",
-            "race_count": 104,
-            "changed_race_count": 3,
-            "changed_race_rate": 0.0288
+        "4452": {
+            "number": 4452,
+            "name": "松尾 祭",
+            "race_count": 174,
+            "changed_race_count": 5,
+            "changed_race_rate": 0.0287
         },
         "5093": {
             "number": 5093,
@@ -8924,6 +8917,13 @@
             "name": "中島 秀治",
             "race_count": 175,
             "changed_race_count": 5,
+            "changed_race_rate": 0.0286
+        },
+        "3630": {
+            "number": 3630,
+            "name": "黒田 誠司",
+            "race_count": 105,
+            "changed_race_count": 3,
             "changed_race_rate": 0.0286
         },
         "4435": {
@@ -9038,13 +9038,6 @@
             "changed_race_count": 4,
             "changed_race_rate": 0.0278
         },
-        "4746": {
-            "number": 4746,
-            "name": "大豆生田 蒼",
-            "race_count": 108,
-            "changed_race_count": 3,
-            "changed_race_rate": 0.0278
-        },
         "4626": {
             "number": 4626,
             "name": "伊藤 紘章",
@@ -9066,13 +9059,6 @@
             "changed_race_count": 4,
             "changed_race_rate": 0.0278
         },
-        "4861": {
-            "number": 4861,
-            "name": "田中 宏樹",
-            "race_count": 145,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0276
-        },
         "3642": {
             "number": 3642,
             "name": "大塚 浩二",
@@ -9093,6 +9079,20 @@
             "race_count": 109,
             "changed_race_count": 3,
             "changed_race_rate": 0.0275
+        },
+        "4746": {
+            "number": 4746,
+            "name": "大豆生田 蒼",
+            "race_count": 109,
+            "changed_race_count": 3,
+            "changed_race_rate": 0.0275
+        },
+        "4861": {
+            "number": 4861,
+            "name": "田中 宏樹",
+            "race_count": 146,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0274
         },
         "5095": {
             "number": 5095,
@@ -9241,16 +9241,16 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0268
         },
-        "5155": {
-            "number": 5155,
-            "name": "内山 七海",
-            "race_count": 150,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.0267
-        },
         "4948": {
             "number": 4948,
             "name": "木場 悠介",
+            "race_count": 151,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0265
+        },
+        "5155": {
+            "number": 5155,
+            "name": "内山 七海",
             "race_count": 151,
             "changed_race_count": 4,
             "changed_race_rate": 0.0265
@@ -9353,13 +9353,6 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0261
         },
-        "3807": {
-            "number": 3807,
-            "name": "岡部 哲",
-            "race_count": 154,
-            "changed_race_count": 4,
-            "changed_race_rate": 0.026
-        },
         "4966": {
             "number": 4966,
             "name": "田川 大貴",
@@ -9380,6 +9373,13 @@
             "race_count": 154,
             "changed_race_count": 4,
             "changed_race_rate": 0.026
+        },
+        "3807": {
+            "number": 3807,
+            "name": "岡部 哲",
+            "race_count": 155,
+            "changed_race_count": 4,
+            "changed_race_rate": 0.0258
         },
         "4738": {
             "number": 4738,
@@ -9468,9 +9468,9 @@
         "5334": {
             "number": 5334,
             "name": "樫葉 新心",
-            "race_count": 120,
+            "race_count": 121,
             "changed_race_count": 3,
-            "changed_race_rate": 0.025
+            "changed_race_rate": 0.0248
         },
         "4610": {
             "number": 4610,
@@ -9535,13 +9535,6 @@
             "changed_race_count": 4,
             "changed_race_rate": 0.0244
         },
-        "5069": {
-            "number": 5069,
-            "name": "山崎 小葉音",
-            "race_count": 123,
-            "changed_race_count": 3,
-            "changed_race_rate": 0.0244
-        },
         "3841": {
             "number": 3841,
             "name": "佐々木 和伸",
@@ -9552,6 +9545,13 @@
         "3792": {
             "number": 3792,
             "name": "田中 豪",
+            "race_count": 124,
+            "changed_race_count": 3,
+            "changed_race_rate": 0.0242
+        },
+        "5069": {
+            "number": 5069,
+            "name": "山崎 小葉音",
             "race_count": 124,
             "changed_race_count": 3,
             "changed_race_rate": 0.0242
@@ -9801,13 +9801,6 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0222
         },
-        "4347": {
-            "number": 4347,
-            "name": "魚谷 香織",
-            "race_count": 135,
-            "changed_race_count": 3,
-            "changed_race_rate": 0.0222
-        },
         "5125": {
             "number": 5125,
             "name": "高井 雄基",
@@ -9818,6 +9811,13 @@
         "5157": {
             "number": 5157,
             "name": "市川 健太",
+            "race_count": 136,
+            "changed_race_count": 3,
+            "changed_race_rate": 0.0221
+        },
+        "4347": {
+            "number": 4347,
+            "name": "魚谷 香織",
             "race_count": 136,
             "changed_race_count": 3,
             "changed_race_rate": 0.0221
@@ -10123,13 +10123,6 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.019
         },
-        "5015": {
-            "number": 5015,
-            "name": "高橋 竜矢",
-            "race_count": 158,
-            "changed_race_count": 3,
-            "changed_race_rate": 0.019
-        },
         "3596": {
             "number": 3596,
             "name": "河上 年昭",
@@ -10140,6 +10133,13 @@
         "3907": {
             "number": 3907,
             "name": "村越 篤",
+            "race_count": 159,
+            "changed_race_count": 3,
+            "changed_race_rate": 0.0189
+        },
+        "5015": {
+            "number": 5015,
+            "name": "高橋 竜矢",
             "race_count": 159,
             "changed_race_count": 3,
             "changed_race_rate": 0.0189
@@ -10221,13 +10221,6 @@
             "changed_race_count": 2,
             "changed_race_rate": 0.0179
         },
-        "4728": {
-            "number": 4728,
-            "name": "山口 亮",
-            "race_count": 113,
-            "changed_race_count": 2,
-            "changed_race_rate": 0.0177
-        },
         "4813": {
             "number": 4813,
             "name": "宮内 直哉",
@@ -10235,18 +10228,18 @@
             "changed_race_count": 2,
             "changed_race_rate": 0.0177
         },
+        "4728": {
+            "number": 4728,
+            "name": "山口 亮",
+            "race_count": 114,
+            "changed_race_count": 2,
+            "changed_race_rate": 0.0175
+        },
         "4826": {
             "number": 4826,
             "name": "井上 一輝",
             "race_count": 171,
             "changed_race_count": 3,
-            "changed_race_rate": 0.0175
-        },
-        "3293": {
-            "number": 3293,
-            "name": "宮内 由紀英",
-            "race_count": 114,
-            "changed_race_count": 2,
             "changed_race_rate": 0.0175
         },
         "5022": {
@@ -10277,6 +10270,13 @@
             "changed_race_count": 3,
             "changed_race_rate": 0.0174
         },
+        "3293": {
+            "number": 3293,
+            "name": "宮内 由紀英",
+            "race_count": 115,
+            "changed_race_count": 2,
+            "changed_race_rate": 0.0174
+        },
         "5284": {
             "number": 5284,
             "name": "嘉手苅 徹哉",
@@ -10301,13 +10301,6 @@
         "4060": {
             "number": 4060,
             "name": "島田 一生",
-            "race_count": 118,
-            "changed_race_count": 2,
-            "changed_race_rate": 0.0169
-        },
-        "4891": {
-            "number": 4891,
-            "name": "寺島 美里",
             "race_count": 118,
             "changed_race_count": 2,
             "changed_race_rate": 0.0169
@@ -10340,12 +10333,12 @@
             "changed_race_count": 2,
             "changed_race_rate": 0.0168
         },
-        "4408": {
-            "number": 4408,
-            "name": "仁科 さやか",
-            "race_count": 120,
+        "4891": {
+            "number": 4891,
+            "name": "寺島 美里",
+            "race_count": 119,
             "changed_race_count": 2,
-            "changed_race_rate": 0.0167
+            "changed_race_rate": 0.0168
         },
         "4720": {
             "number": 4720,
@@ -10353,6 +10346,13 @@
             "race_count": 120,
             "changed_race_count": 2,
             "changed_race_rate": 0.0167
+        },
+        "4408": {
+            "number": 4408,
+            "name": "仁科 さやか",
+            "race_count": 121,
+            "changed_race_count": 2,
+            "changed_race_rate": 0.0165
         },
         "4098": {
             "number": 4098,
@@ -10490,9 +10490,9 @@
         "5277": {
             "number": 5277,
             "name": "井上 未都",
-            "race_count": 133,
+            "race_count": 134,
             "changed_race_count": 2,
-            "changed_race_rate": 0.015
+            "changed_race_rate": 0.0149
         },
         "3964": {
             "number": 3964,
@@ -10683,19 +10683,19 @@
             "changed_race_count": 2,
             "changed_race_rate": 0.0129
         },
-        "4390": {
-            "number": 4390,
-            "name": "松本 弓雄",
-            "race_count": 155,
-            "changed_race_count": 2,
-            "changed_race_rate": 0.0129
-        },
         "4117": {
             "number": 4117,
             "name": "廣中 智紗衣",
             "race_count": 155,
             "changed_race_count": 2,
             "changed_race_rate": 0.0129
+        },
+        "4390": {
+            "number": 4390,
+            "name": "松本 弓雄",
+            "race_count": 156,
+            "changed_race_count": 2,
+            "changed_race_rate": 0.0128
         },
         "5118": {
             "number": 5118,
@@ -10714,9 +10714,9 @@
         "4684": {
             "number": 4684,
             "name": "楠原 翔太",
-            "race_count": 160,
+            "race_count": 161,
             "changed_race_count": 2,
-            "changed_race_rate": 0.0125
+            "changed_race_rate": 0.0124
         },
         "5424": {
             "number": 5424,
@@ -10840,9 +10840,9 @@
         "4499": {
             "number": 4499,
             "name": "滝川 真由子",
-            "race_count": 102,
+            "race_count": 103,
             "changed_race_count": 1,
-            "changed_race_rate": 0.0098
+            "changed_race_rate": 0.0097
         },
         "3523": {
             "number": 3523,
@@ -11001,7 +11001,7 @@
         "4387": {
             "number": 4387,
             "name": "平山 智加",
-            "race_count": 177,
+            "race_count": 178,
             "changed_race_count": 1,
             "changed_race_rate": 0.0056
         },
@@ -11106,7 +11106,7 @@
         "5442": {
             "number": 5442,
             "name": "池田 美優",
-            "race_count": 89,
+            "race_count": 90,
             "changed_race_count": 0,
             "changed_race_rate": 0
         },
@@ -11267,7 +11267,7 @@
         "5446": {
             "number": 5446,
             "name": "長嶺 真李愛",
-            "race_count": 34,
+            "race_count": 35,
             "changed_race_count": 0,
             "changed_race_rate": 0
         },

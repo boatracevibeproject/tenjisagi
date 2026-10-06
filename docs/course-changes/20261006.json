@@ -1,0 +1,47 @@
+{
+    "date": "2026-10-06",
+    "racers": {
+        "3981": {
+            "number": 3981,
+            "name": "今坂 晃広",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "4301": {
+            "number": 4301,
+            "name": "関 裕也",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "4390": {
+            "number": 4390,
+            "name": "松本 弓雄",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "4953": {
+            "number": 4953,
+            "name": "尾上 雅也",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "5044": {
+            "number": 5044,
+            "name": "渡邉 健",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        },
+        "5452": {
+            "number": 5452,
+            "name": "上馬場 風依",
+            "race_count": 1,
+            "changed_race_count": 0,
+            "changed_race_rate": 0
+        }
+    }
+}
